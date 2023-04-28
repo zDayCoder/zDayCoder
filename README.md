@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03A9F4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29B6F6&size=35&center=true&vCenter=true&width=1000&lines=Olá+caro+visitante,+Meu+nome+é+Ryan+Figueiredo;Tenho+20+anos;Estudante+de+análise+e+desenvolvimento+de+software;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29B6F6&size=35&center=true&vCenter=true&width=1000&lines=Olá+caro+visitante,+meu+nome+é+Ryan+Figueiredo;Tenho+21+anos;Estudante+de+análise+e+desenvolvimento+de+sistema;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=zDayCoder&bg_color=0d1117&color=0288D1&line=0288D1&point=01579B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
