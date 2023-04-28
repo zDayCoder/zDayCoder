@@ -18,10 +18,8 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:ryan.arruda.figueiredo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ryan-figueiredo-a95350189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
  ### Habilidades :
@@ -38,8 +36,6 @@
     <img src="https://skillicons.dev/icons?i=dart,flutter,mysql" />
   </a>
 </p>
-
-        <img align="center" src="https://github-readme-stats-endrewss.vercel.app/api/wakatime?username=zDayCoder&langs_count=8&theme=gotham&hide_border=true&custom_title=Tempo%20Programando&cache_seconds=14400" /> 
   
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
