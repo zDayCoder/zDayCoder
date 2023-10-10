@@ -22,7 +22,7 @@
  ### Habilidades :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,androidstudio,java,cpp,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,php,javascript,bootstrap,androidstudio,java,cpp,firebase" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ### Estudando:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,,mysql" />
   </a>
 </p>
   
